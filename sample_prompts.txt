@@ -1,0 +1,5 @@
+# Sample prompts
+Explain quantum computing in simple terms.
+Write a friendly email asking for a meeting.
+Generate a product description for a smartwatch.
+Create a logo idea prompt for a coffee shop.
